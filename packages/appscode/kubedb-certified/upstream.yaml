@@ -1,0 +1,7 @@
+HelmRepo: https://charts.appscode.com/stable/
+HelmChart: kubedb-certified
+Vendor: AppsCode
+DisplayName: KubeDB
+Fetch: newer
+ChartMetadata:
+  kubeVersion: '>=1.28.0-0'
