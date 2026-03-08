@@ -1,5 +1,5 @@
 HelmRepo: https://charts.appscode.com/stable/
-HelmChart: kubedb-certified
+HelmChart: kubedb
 Vendor: AppsCode
 DisplayName: KubeDB
 Fetch: newer
